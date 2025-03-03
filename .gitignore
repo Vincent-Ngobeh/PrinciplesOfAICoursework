@@ -1,0 +1,37 @@
+# Virtual environment
+ai_env/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Large datasets (if needed)
+# Uncomment if you don't want to include large datasets
+# UCI HAR Dataset/*.csv
+# UCI HAR Dataset/*.txt
+
+# Logs
+*.log
