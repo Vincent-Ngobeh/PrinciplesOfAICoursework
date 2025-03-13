@@ -20,7 +20,7 @@ This repository implements and analyzes two fundamental machine learning approac
         - `README.md`: Documentation for the linear regression component
 - `svm/`: Code and documentation for the Human Activity Recognition task
         - `human_activity_recognition.py`: Implementation of SVM models
-        - `svm_results.png`: Visualization of classification results
+        - `svm_results_subject_wise.png`: Visualization of classification results
         - `README.md`: Documentation for the SVM component
 - `UCI HAR Dataset/`: Dataset for the SVM part of the assignment
         - `test/`: Test data files
