@@ -11,3 +11,6 @@ This directory contains the implementation of linear regression models to predic
 
 ## Key Files
 - `california_housing.py`: Main implementation file
+
+# To run the linear regression implementation
+- python linear_regression/california_housing.py

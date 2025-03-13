@@ -12,3 +12,6 @@ This directory contains the implementation of Support Vector Machine (SVM) model
 
 ## Key Files
 - `human_activity.py`: Main implementation file
+
+# To run the SVM implementation
+- python svm/human_activity_recognition.py
