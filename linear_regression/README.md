@@ -2,6 +2,7 @@
 
 This directory contains the implementation of linear regression models to predict median house values in California districts using the California Housing Dataset.
 
+
 ## Implementation Details
 
 - Data exploration and visualization of the relationship between household income and house prices
